@@ -9,3 +9,6 @@ for result in results:
 
 print(boxes.xywh)  # 바운딩 박스의 좌표
 print(boxes.cls)  # 클래스 이름
+
+
+# 수정함  - mk
