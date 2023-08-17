@@ -13,4 +13,4 @@ if __name__ == '__main__':
     # gpu 사용할 시
     # model.train(data='Fish-44/data.yaml', imgsz=640, epochs=10, batch=4, device=0 (or device=[0,1]))
 
-# 깃허브 수정 
+# 깃허브 수정
